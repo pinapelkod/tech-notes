@@ -1,3 +1,5 @@
+<img src="https://github.com/pinapelkod/tech-notes/blob/main/imgs/notebook_banner.svg" height="250">
+
 # Study Notes!
 Using GitHub as a digital notebook to capture thoughts, ideas, and technical documentation
 
