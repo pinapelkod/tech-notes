@@ -17,8 +17,9 @@ With static site generators like [Gatsby](https://www.gatsbyjs.com/why-gatsby/) 
 <!--[Gatsby with WordPress and Markdown](https://www.gatsbyjs.com/how-it-works/data-from-anywhere/) -->
 
 <!-- [Top 5 Static Site Generators](https://jamstack.org/generators/) -->
-<!-- Next.js, Hugo, Gatsby, Jekyll, Nuxt-->
 <!-- [Top 5 Static Site Generators](https://scotch.io/tutorials/top-10-static-site-generators-in-2020) -->
+<!-- Next.js, Hugo, Gatsby, Jekyll, Nuxt-->
+
 <!-- [Starter Blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/) -->
 <!-- [Adding Google Analytics](https://www.mariokandut.com/how-to-add-google-analytics-in-gatsby/) -->
 
