@@ -19,7 +19,7 @@ There are several use cases for static site generators spanning industry, techno
 
 ### ➡️ Top 5️⃣ Static Site Generators
 
-According to [Jamstack.org](https://jamstack.org/generators/), below is a list of the most starred Site Generators on GitHub. I am familiar with all five but its not necessary to learn all of them. Pick one and run with it. I recommend you choose between Gatsby, Next.js, and Nuxt.
+According to [Jamstack.org](https://jamstack.org/generators/), the following list of Static Site Generators has the most stars on GitHub. I am familiar with all five but its not necessary to learn all of them. Pick one and run with it. I recommend you choose between Gatsby, Next.js, and Nuxt.
 
 1. Next.js
 2. Hugo
